@@ -93,7 +93,7 @@ python3 filename.py
 ## 👤 Author
 **Tharun Bala**  
 B.Tech AI & DS, 2nd Year @ PMC Tech  
-IG: [@Bunny Bala](https://instagram.com)
+
 
 ---
 
